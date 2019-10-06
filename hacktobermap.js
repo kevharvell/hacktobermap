@@ -20,26 +20,26 @@ var hacktobermap = [
   {
     name: "Sasithorn Supamarkpukdee",
     location: "Thailand",
-    latitude: 15.8700,
+    latitude: 15.87,
     longitude: 100.9925
   },
   {
     name: "Alex K",
     location: "NYC",
     latitude: 40.757801,
-    longitude: -73.940033 
+    longitude: -73.940033
   },
   {
     name: "Ian Kahwai",
     location: "Harare",
     latitude: -17.825167,
-    longitude: 31.033510
+    longitude: 31.03351
   },
   {
     name: "Ogundiji Bolade (AdroitCode)",
     location: "Lagos Nigeria",
-    latitude: 6.649190,
-    longitude: 3.302540 
+    latitude: 6.64919,
+    longitude: 3.30254
   },
   {
     name: "Airam Rguez",
@@ -62,8 +62,8 @@ var hacktobermap = [
   {
     name: "Shubhang Singhal",
     location: "Mayur Vihar Phase1",
-    latitude: 28.589150,
-    longitude: 77.304690
+    latitude: 28.58915,
+    longitude: 77.30469
   },
   {
     name: "John-Paul Kelly",
@@ -75,13 +75,13 @@ var hacktobermap = [
     name: "Neeraj Yadav",
     location: "Himachal Pradesh",
     latitude: 31.817261,
-    longitude: 77.302757,
+    longitude: 77.302757
   },
   {
     name: "Pradyuman Dixit",
     location: "Hague",
-    latitude: 52.080190,
-    longitude: 4.310130
+    latitude: 52.08019,
+    longitude: 4.31013
   },
   {
     name: "Arpit J",
@@ -104,7 +104,7 @@ var hacktobermap = [
   {
     name: "Anna CIA",
     location: "São Paulo",
-    latitude: -23.550520,
+    latitude: -23.55052,
     longitude: -46.633308
   },
   {
@@ -134,7 +134,7 @@ var hacktobermap = [
   {
     name: "Aman Kumar Soni",
     location: "Jalandhar",
-    latitude: 31.3260,
+    latitude: 31.326,
     longitude: 75.5762
   },
   {
@@ -146,13 +146,13 @@ var hacktobermap = [
   {
     name: "Kshitij Agrawal",
     location: "Kharagpur",
-    latitude: 10.101010,
-    longitude: 20.202020
+    latitude: 10.10101,
+    longitude: 20.20202
   },
   {
     name: "cherrysrc",
     location: "Lower Saxony",
-    latitude: 52.949300,
+    latitude: 52.9493,
     longitude: 10.050893
   },
   {
@@ -177,7 +177,7 @@ var hacktobermap = [
     name: "Tobias",
     location: "Gummersbach",
     latitude: 51.028351,
-    longitude: 7.565430
+    longitude: 7.56543
   },
   {
     name: "Fredrik Engstrand",
@@ -215,4 +215,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name: "Kev",
+    location: "Dallas, Texas",
+    latitude: 32.776665,
+    longitude: -96.796989
+  }
 ];
